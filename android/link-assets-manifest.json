@@ -1,0 +1,49 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Lato-BoldItalic.ttf",
+      "sha1": "2bf1b50c9b2173944aec0662d16701f0964440f2"
+    },
+    {
+      "path": "src/assets/fonts/Lato-Light.ttf",
+      "sha1": "e0132feb514feb3cdb745d479c71dee62ad37757"
+    },
+    {
+      "path": "src/assets/fonts/Lato-LightItalic.ttf",
+      "sha1": "1d0caca7d22d04bc6b84d67937498a1be04ceedd"
+    },
+    {
+      "path": "src/assets/fonts/Lato-Regular.ttf",
+      "sha1": "83dc5921761a7c3d1ee7badba3fc7e1e1f5ed803"
+    },
+    {
+      "path": "src/assets/fonts/Lato-Thin.ttf",
+      "sha1": "7e750140b50f7f2c705cf2f67c559f2c267096c7"
+    },
+    {
+      "path": "src/assets/fonts/Nexa Bold.ttf",
+      "sha1": "066c5c51f8e86a5c1c56c13fc690d6b974257c55"
+    },
+    {
+      "path": "src/assets/fonts/Nexa Light.otf",
+      "sha1": "0585cb2cda4c00bb658a5b3793f0b1c2c3fd46f8"
+    },
+    {
+      "path": "src/assets/fonts/Nexa Light.ttf",
+      "sha1": "327241e97ad4c5aefcee13d572110ba91cbb1730"
+    },
+    {
+      "path": "src/assets/fonts/Nexa Regular.otf",
+      "sha1": "fab53a0445e1cb7fc28c54e36ac257cc29e667dd"
+    },
+    {
+      "path": "src/assets/fonts/Nexa Regular.ttf",
+      "sha1": "e242e1ba67da71c2c1da16ed5df3b64b4f949480"
+    },
+    {
+      "path": "src/assets/fonts/Nexa W01 Heavy.ttf",
+      "sha1": "97db7a79d44fe6956fc91a4261d011118f02ea73"
+    }
+  ]
+}
